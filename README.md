@@ -11,7 +11,7 @@ src/redux/reducer/notes_reducer.js : have experimental notes reducer data
 The following explains how to setup app.
 
 Step: 1 go to link
-https://github.com/allenaveen/login_page.git
+https://github.com/allenaveen/notes.git
 
 Step: 2 clone or download
 
